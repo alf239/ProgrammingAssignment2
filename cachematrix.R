@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## HW3: Two functions providing a constructor for a special caching matrix object
+## and a solver which can use that cache 
 
 ## This function creates a special "matrix" object that can cache its inverse.
 
